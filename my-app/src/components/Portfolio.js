@@ -3,7 +3,7 @@ import Card from './Card'
 function Portfolio(props) {
     
 return (
-    <div>
+    <div className='portfolio-container'>
         {
             props.projects.map((info, index) => {
                 return  (
