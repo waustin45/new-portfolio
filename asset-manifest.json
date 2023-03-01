@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/new-portfolio/static/css/main.cb875765.css",
+    "main.js": "/new-portfolio/static/js/main.c4d55863.js",
+    "static/js/787.28cb0dcd.chunk.js": "/new-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Space-PNG-Pic.png": "/new-portfolio/static/media/Space-PNG-Pic.b7ff1ff439550faee873.png",
+    "static/media/coffee-site.png": "/new-portfolio/static/media/coffee-site.3eadf77d9e9090fc2dba.png",
+    "static/media/auction-plaza-pic.png": "/new-portfolio/static/media/auction-plaza-pic.3697fba3bbfe0381252f.png",
+    "static/media/rock-paper.png": "/new-portfolio/static/media/rock-paper.508d43e5a5d7b6ad9443.png",
+    "static/media/Profile-pic.jpg": "/new-portfolio/static/media/Profile-pic.75a7735b139b526c0f6d.jpg",
+    "static/media/project-shot-1.png": "/new-portfolio/static/media/project-shot-1.828f874cbdd30222051f.png",
+    "static/media/planet-fact.png": "/new-portfolio/static/media/planet-fact.56f75635bf897c9b1518.png",
+    "static/media/icons8-github.svg": "/new-portfolio/static/media/icons8-github.3ecf27711255ef69c6785f9440457d46.svg",
+    "static/media/icons8-twitter.svg": "/new-portfolio/static/media/icons8-twitter.1c84825285a4f9339fd385f985784504.svg",
+    "static/media/icons8-linkedin-circled.svg": "/new-portfolio/static/media/icons8-linkedin-circled.f0744116e74ed36f884caa95e8c0c106.svg",
+    "index.html": "/new-portfolio/index.html",
+    "main.cb875765.css.map": "/new-portfolio/static/css/main.cb875765.css.map",
+    "main.c4d55863.js.map": "/new-portfolio/static/js/main.c4d55863.js.map",
+    "787.28cb0dcd.chunk.js.map": "/new-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb875765.css",
+    "static/js/main.c4d55863.js"
+  ]
+}
