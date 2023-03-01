@@ -10,8 +10,8 @@ return (
             <h2>{props.project}</h2>
             <p className='abs-p'>{props.desc}</p>
             <div className='card-a-div'>
-                <a href={props.link}>Live Site</a>
-                <a href={props.repo}>Repo</a>
+                <a href={props.link} target="_blank" rel="noreferrer">Live Site</a>
+                <a href={props.repo} target="_blank" rel="noreferrer">Repo</a>
             </div>
             
             <ul>
