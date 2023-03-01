@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.about-me-sec.visible, .portfolio-me-sec.visible, .contact-me-sec.visible  {
+  display: flex;
+}
+.about-me-sec.hidden, .portfolio-me-sec.hidden, .contact-me-sec.hidden  {
+  display: none;
+}
