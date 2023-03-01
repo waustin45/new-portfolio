@@ -73,7 +73,7 @@ return (
                 <button onClick={switchClass} id="about-btn" className='btn nav-btn'>About Me</button>
                 <button onClick={switchClass} id="portfolio-btn" className='btn nav-btn'>Portfolio</button>
                 <button onClick={switchClass} id="contact-btn" className='btn nav-btn'>Contact Me</button>
-                <a href='/W-Austin-Howell.pdf' download="resume" className='btn resume-btn nav-btn'>Resume</a>
+                <a href='../assets/W-Austin-Howell.pdf'  className='btn resume-btn nav-btn' download="resume">Resume</a>
             </div>
         </div>
     </nav>
